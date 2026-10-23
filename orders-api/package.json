@@ -1,0 +1,12 @@
+{
+  "name": "orders-api",
+  "version": "1.0.0",
+  "description": "API de pedidos com integração ao estoque",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
